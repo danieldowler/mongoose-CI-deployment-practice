@@ -6,6 +6,6 @@ deploy:
   provider: heroku
   api_key:
     secure: gjU+WmOvnBnpeejq6Vf+0aOiN8t535CY6rPCT9ElVH9ECKtapBAf7fHpxSM1jWCmrX5fbqXdKlosLPvT0quMuQFRa2P4MZETOM8En25l7RDx26XDrVQLyGMSJFoVoEEYKOuy9O9wzGMOBA0LJf6AhN4LxL/ZMHdfxzW7Bsmh2tQQNJIC+S9e/qnS2T+HiSgrfF/+3aFDQ3v8S784Ug6C5hkcH1s9eSFfza0tErEPnsmptdJIlLG68RbYLJwRZH59q+zeymgAO1o6YO2W+24i6ze+LmrnJVecA7CV8neFXb6FKw2fv58+KQAe+Pizz4Tod6K2s3GC2o0EIfD0SvyMr8uuQ41Dw1RTw4vVo2xMViQkWrNAeqF1+DU829dq5TQdq1cmm1J/0VP86gZZh39NhtwFu9A1V1wrHQU2fMkYyVzVuT7bX5yF39ZRwI+MQRTm/0bDK5/8zsO1y6EFQ3Mjty1mf/EI/WHUSgJcm6WmNka1RyEtemyYQTdlcojsKWUG9w2QO35f+VvLaACd46PMF4QSM9IH4jIFEYU7UsZMa9mHcdNOu7tnavTm8bBkju88EMZpOYj4rdXDPeqG5mreKlCahANw56Tyg+No+4mghDOBXiGYvSkuR7dDeaN/7IjBfqxRoNAiTdUZwFIoTCB8gkOvF3DvBvGS2ipvUAiu0l4=
-  app: travis-integration
+  app: mongoose-deploy-integration
   on:
     repo: danieldowler/mongoose-CI-deployment-practice
